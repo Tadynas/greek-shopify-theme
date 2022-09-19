@@ -2,7 +2,11 @@
 module.exports = {
   content: ['./sections/**/*.liquid', './snippets/**/*.liquid'],
   theme: {
-    extend: {},
+    extend: {
+      height: {
+        '94': '22rem'
+      }
+    },
   },
   plugins: [],
 }
