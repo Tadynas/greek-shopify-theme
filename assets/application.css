@@ -694,6 +694,11 @@ video {
   margin-right: 0.25rem;
 }
 
+.my-12 {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
 .ml-3 {
   margin-left: 0.75rem;
 }
